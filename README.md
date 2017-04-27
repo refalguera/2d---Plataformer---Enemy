@@ -1,6 +1,6 @@
 # 2d---Plataformer---Enemy
 Inimigo do Jogo Manaburn
-Criando a IA do inimigo. 
+Criando a Ia do inimigo. 
 Funções : 
    - Mover
    - Correr
